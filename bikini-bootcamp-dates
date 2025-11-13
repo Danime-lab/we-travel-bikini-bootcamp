@@ -1,0 +1,133 @@
+<div style="display: flex; width: 100%; justify-content: center;">
+            <button id="wetravel-bnb-dropdown" class="sqs-block-button-element--small sqs-button-element--secondary"
+                onmouseenter="style.opacity='0.7';" onmouseleave="style.opacity='1';"
+                style="width: 100%; background-color: #ffffff; color: #000000; border: 0px; outline: 0px;">Book
+                Now</button>
+        </div>
+        <ul id="wetravel-bnb-list"
+            style="transition: all 0.3s ease-in;display: none;list-style-type: none; margin: 0; padding: 0px; border: 2px solid #E4CDBD; border-top: 0px; border-radius: 0 0 8px 8px;-webkit-box-shadow: 1px 1px 4px 0px #000000; box-shadow: 1px 1px 4px 0px #000000;">
+            <li style="border-bottom: 1px solid #E4CDBD; background-color: #ffffff;">
+                <button class="wtrvl-checkout_button" id="wetravel_button_widget"
+                    data-env="https://retreattulum.wetravel.com" data-version="v0.4" data-uid="81997159"
+                    data-uuid="57990911" href="https://retreattulum.wetravel.com/checkout_embed?uuid=81997159"
+                    onmouseover="style.textDecoration='underline';" onmouseleave="style.textDecoration='none';"
+                    style="opacity: 1; pointer-events:visible; background-color: #ffffff !important;color:#0a1200 !important;
+                        padding: 12px 8px; border: 0px;border-radius: 0px;font-family: Lettera Text,-apple-system,system-ui,Roboto,Helvetica Neue,sans-serif;
+                        font-weight: 500;font-size: 14px;-webkit-font-smoothing: antialiased;text-transform: capitalize;text-align: left;
+                        text-decoration: none;line-height: 14px;display: inline-block; cursor: pointer; width: 100%;">Nov
+                    23, 2025</button>
+            </li>
+            <li style="border-bottom: 1px solid #E4CDBD; background-color: #ffffff;">
+                <button class="wtrvl-checkout_button" id="wetravel_button_widget"
+                    data-env="https://retreattulum.wetravel.com" data-version="v0.4" data-uid="57990911"
+                    data-uuid="57990911" href="https://retreattulum.wetravel.com/checkout_embed?uuid=57990911"
+                    onmouseover="style.textDecoration='underline';" onmouseleave="style.textDecoration='none';"
+                    style="opacity: 1; pointer-events:visible; background-color: #ffffff !important;color:#0a1200 !important;
+                        padding: 12px 8px; border: 0px;border-radius: 0px;font-family: Lettera Text,-apple-system,system-ui,Roboto,Helvetica Neue,sans-serif;
+                        font-weight: 500;font-size: 14px;-webkit-font-smoothing: antialiased;text-transform: capitalize;text-align: left;
+                        text-decoration: none;line-height: 14px;display: inline-block; cursor: pointer; width: 100%;">Dec
+                    10, 2025</button>
+            </li>
+            <li style="border-bottom: 1px solid #E4CDBD; background-color: #ffffff;">
+                <button class="wtrvl-checkout_button" id="wetravel_button_widget"
+                    data-env="https://retreattulum.wetravel.com" data-version="v0.4" data-uid="95170558"
+                    data-uuid="95170558" href="https://retreattulum.wetravel.com/checkout_embed?uuid=95170558"
+                    onmouseover="style.textDecoration='underline';" onmouseleave="style.textDecoration='none';"
+                    style="opacity: 1; pointer-events:visible; background-color: #ffffff !important;color:#0a1200 !important;
+                        padding: 12px 8px; border: 0px;border-radius: 0px;font-family: Lettera Text,-apple-system,system-ui,Roboto,Helvetica Neue,sans-serif;
+                        font-weight: 500;font-size: 14px;-webkit-font-smoothing: antialiased;text-transform: capitalize;text-align: left;
+                        text-decoration: none;line-height: 14px;display: inline-block; cursor: pointer; width: 100%;">Dec
+                    22, 2025</button>
+            </li>
+            <li style="border-bottom: 1px solid #E4CDBD; background-color: #ffffff;">
+                <button class="wtrvl-checkout_button" id="wetravel_button_widget"
+                    data-env="https://retreattulum.wetravel.com" data-version="v0.4" data-uid="34472122"
+                    data-uuid="34472122" href="https://retreattulum.wetravel.com/checkout_embed?uuid=34472122"
+                    onmouseover="style.textDecoration='underline';" onmouseleave="style.textDecoration='none';"
+                    style="opacity: 1; pointer-events:visible; background-color: #ffffff !important;color:#0a1200 !important;
+                        padding: 12px 8px; border: 0px;border-radius: 0px;font-family: Lettera Text,-apple-system,system-ui,Roboto,Helvetica Neue,sans-serif;
+                        font-weight: 500;font-size: 14px;-webkit-font-smoothing: antialiased;text-transform: capitalize;text-align: left;
+                        text-decoration: none;line-height: 14px;display: inline-block; cursor: pointer; width: 100%;">Dec
+                    28, 2025</button>
+            </li>
+            <li style="border-bottom: 1px solid #E4CDBD; background-color: #ffffff;">
+                <button class="wtrvl-checkout_button" id="wetravel_button_widget"
+                    data-env="https://retreattulum.wetravel.com" data-version="v0.4" data-uid="32788101"
+                    data-uuid="32788101" href="https://retreattulum.wetravel.com/checkout_embed?uuid=32788101"
+                    onmouseover="style.textDecoration='underline';" onmouseleave="style.textDecoration='none';"
+                    style="opacity: 1; pointer-events:visible; background-color: #ffffff !important;color:#0a1200 !important;
+                        padding: 12px 8px; border: 0px;border-radius: 0px;font-family: Lettera Text,-apple-system,system-ui,Roboto,Helvetica Neue,sans-serif;
+                        font-weight: 500;font-size: 14px;-webkit-font-smoothing: antialiased;text-transform: capitalize;text-align: left;
+                        text-decoration: none;line-height: 14px;display: inline-block; cursor: pointer; width: 100%;">Jan
+                    13, 2026</button>
+            </li>
+            <li style="border-bottom: 1px solid #E4CDBD; background-color: #ffffff;">
+                <button class="wtrvl-checkout_button" id="wetravel_button_widget"
+                    data-env="https://retreattulum.wetravel.com" data-version="v0.4" data-uid="27815611"
+                    data-uuid="20017573" href="https://retreattulum.wetravel.com/checkout_embed?uuid=27815611"
+                    onmouseover="style.textDecoration='underline';" onmouseleave="style.textDecoration='none';"
+                    style="opacity: 1; pointer-events:visible; background-color: #ffffff !important;color:#0a1200 !important;
+                        padding: 12px 8px; border: 0px;border-radius: 0px;font-family: Lettera Text,-apple-system,system-ui,Roboto,Helvetica Neue,sans-serif;
+                        font-weight: 500;font-size: 14px;-webkit-font-smoothing: antialiased;text-transform: capitalize;text-align: left;
+                        text-decoration: none;line-height: 14px;display: inline-block; cursor: pointer; width: 100%;">Feb 1, 2026</button>
+            </li>
+            <li style="border-bottom: 1px solid #E4CDBD; background-color: #ffffff;">
+                <button class="wtrvl-checkout_button" id="wetravel_button_widget"
+                    data-env="https://retreattulum.wetravel.com" data-version="v0.4" data-uid="86843769"
+                    data-uuid="95280796" href="https://retreattulum.wetravel.com/checkout_embed?uuid=86843769"
+                    onmouseover="style.textDecoration='underline';" onmouseleave="style.textDecoration='none';"
+                    style="opacity: 1; pointer-events:visible; background-color: #ffffff !important;color:#0a1200 !important;
+                        padding: 12px 8px; border: 0px;border-radius: 0px;font-family: Lettera Text,-apple-system,system-ui,Roboto,Helvetica Neue,sans-serif;
+                        font-weight: 500;font-size: 14px;-webkit-font-smoothing: antialiased;text-transform: capitalize;text-align: left;
+                        text-decoration: none;line-height: 14px;display: inline-block; cursor: pointer; width: 100%;">Feb 22, 2026</button>
+            </li>
+            <li style="border-bottom: 1px solid #E4CDBD; background-color: #ffffff;">
+                <button class="wtrvl-checkout_button" id="wetravel_button_widget"
+                    data-env="https://retreattulum.wetravel.com" data-version="v0.4" data-uid="18106063"
+                    data-uuid="88663157" href="https://retreattulum.wetravel.com/checkout_embed?uuid=18106063"
+                    onmouseover="style.textDecoration='underline';" onmouseleave="style.textDecoration='none';"
+                    style="opacity: 1; pointer-events:visible; background-color: #ffffff !important;color:#0a1200 !important;
+                        padding: 12px 8px; border: 0px;border-radius: 0px;font-family: Lettera Text,-apple-system,system-ui,Roboto,Helvetica Neue,sans-serif;
+                        font-weight: 500;font-size: 14px;-webkit-font-smoothing: antialiased;text-transform: capitalize;text-align: left;
+                        text-decoration: none;line-height: 14px;display: inline-block; cursor: pointer; width: 100%;">March 9, 2026</button>
+            </li>
+            <li style="border-bottom: 1px solid #E4CDBD; background-color: #ffffff;">
+                <button class="wtrvl-checkout_button" id="wetravel_button_widget"
+                    data-env="https://retreattulum.wetravel.com" data-version="v0.4" data-uid="94937992"
+                    data-uuid="08928681" href="https://retreattulum.wetravel.com/checkout_embed?uuid=94937992"
+                    onmouseover="style.textDecoration='underline';" onmouseleave="style.textDecoration='none';"
+                    style="opacity: 1; pointer-events:visible; background-color: #ffffff !important;color:#0a1200 !important;
+                        padding: 12px 8px; border: 0px;border-radius: 0px;font-family: Lettera Text,-apple-system,system-ui,Roboto,Helvetica Neue,sans-serif;
+                        font-weight: 500;font-size: 14px;-webkit-font-smoothing: antialiased;text-transform: capitalize;text-align: left;
+                        text-decoration: none;line-height: 14px;display: inline-block; cursor: pointer; width: 100%;">March 28, 2026</button>
+            </li>
+        </ul>
+        <script src="https://cdn.wetravel.com/widgets/embed_checkout.js"></script>
+        <script>
+            const dropdownTriggerButton = document.getElementById('wetravel-bnb-dropdown');
+            const dropdownButtonListContainer = document.getElementById('wetravel-bnb-list');
+
+            dropdownButtonListContainer.addEventListener('mouseover', (ev) => {
+                dropdownTriggerButton.style.borderRadius = '32px 32px 0px 0px';
+                dropdownButtonListContainer.style.display = 'block';
+            });
+
+            dropdownButtonListContainer.addEventListener('mouseleave', (ev) => {
+                dropdownTriggerButton.style.borderRadius = '32px';
+                dropdownButtonListContainer.style.display = 'none';
+            });
+
+            dropdownTriggerButton.addEventListener('mouseover', (ev) => {
+                dropdownTriggerButton.style.borderRadius = '32px 32px 0px 0px';
+                dropdownButtonListContainer.style.display = 'block';
+            });
+
+            dropdownTriggerButton.addEventListener('mouseleave', (ev) => {
+                dropdownTriggerButton.style.borderRadius = '32px';
+                dropdownButtonListContainer.style.display = 'none';
+            });
+        </script><style>
+html.squarespace-damask .sqs-blockStatus {
+display: none !important;
+}
+</style>
