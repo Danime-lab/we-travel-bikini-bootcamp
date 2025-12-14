@@ -1,0 +1,165 @@
+<div style="max-width: 700px; margin: 0 auto;">
+
+  
+
+  <!-- Row 2 -->
+  <div style="display:flex; justify-content:space-between; align-items:center; gap:16px;
+              padding:8px 10px; border-bottom:1px solid #E4CDBD;">
+    <div style="font-family: Lettera Text,-apple-system,system-ui,Roboto,Helvetica Neue,sans-serif;
+                font-weight:500; font-size:16px; color:#0a1200;">
+      • Dec 10 – 16, 2025
+    </div>
+    <button
+      class="wtrvl-checkout_button sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element"
+      id="wetravel_button_restore2"
+      data-env="https://retreattulum.wetravel.com"
+      data-version="v0.4"
+      data-uid="74854293"
+      data-uuid="74854293"
+      href="https://retreattulum.wetravel.com/checkout_embed?uuid=74854293">
+      Book Now
+    </button>
+  </div>
+
+  <!-- Row 3 -->
+  <div style="display:flex; justify-content:space-between; align-items:center; gap:16px;
+              padding:8px 10px; border-bottom:1px solid #E4CDBD;">
+    <div style="font-family: Lettera Text,-apple-system,system-ui,Roboto,Helvetica Neue,sans-serif;
+                font-weight:500; font-size:16px; color:#0a1200;">
+      • Dec 22 – 28, 2025
+    </div>
+    <button
+      class="wtrvl-checkout_button sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element"
+      id="wetravel_button_restore2"
+      data-env="https://retreattulum.wetravel.com"
+      data-version="v0.4"
+      data-uid="08293849"
+      data-uuid="08293849"
+      href="https://retreattulum.wetravel.com/checkout_embed?uuid=08293849">
+      Book Now
+    </button>
+  </div>
+  
+  <!-- Row 4 -->
+  <div style="display:flex; justify-content:space-between; align-items:center; gap:16px;
+              padding:8px 10px; border-bottom:1px solid #E4CDBD; background-color:#F9F4EE;">
+    <div style="font-family: Lettera Text,-apple-system,system-ui,Roboto,Helvetica Neue,sans-serif;
+                font-weight:500; font-size:16px; color:#0a1200;">
+      • Dec 28, 2025 – Jan 3, 2026
+    </div>
+    <button
+      class="wtrvl-checkout_button sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element"
+      id="wetravel_button_restore3"
+      data-env="https://retreattulum.wetravel.com"
+      data-version="v0.4"
+      data-uid="40805928"
+      data-uuid="40805928"
+      href="https://retreattulum.wetravel.com/checkout_embed?uuid=40805928">
+      Book Now
+    </button>
+  </div>
+
+  <!-- Row 5 -->
+  <div style="display:flex; justify-content:space-between; align-items:center; gap:16px;
+              padding:8px 10px; border-bottom:1px solid #E4CDBD;">
+    <div style="font-family: Lettera Text,-apple-system,system-ui,Roboto,Helvetica Neue,sans-serif;
+                font-weight:500; font-size:16px; color:#0a1200;">
+      • Jan 13 – 19, 2026
+    </div>
+    <button
+      class="wtrvl-checkout_button sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element"
+      id="wetravel_button_restore4"
+      data-env="https://retreattulum.wetravel.com"
+      data-version="v0.4"
+      data-uid="66439812"
+      data-uuid="66439812"
+      href="https://retreattulum.wetravel.com/checkout_embed?uuid=66439812">
+      Book Now
+    </button>
+  </div>
+
+  <!-- Row 6 -->
+  <div style="display:flex; justify-content:space-between; align-items:center; gap:16px;
+              padding:8px 10px; border-bottom:1px solid #E4CDBD; background-color:#F9F4EE;">
+    <div style="font-family: Lettera Text,-apple-system,system-ui,Roboto,Helvetica Neue,sans-serif;
+                font-weight:500; font-size:16px; color:#0a1200;">
+      • Feb 1 – 7, 2026
+    </div>
+    <button
+      class="wtrvl-checkout_button sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element"
+      id="wetravel_button_restore5"
+      data-env="https://retreattulum.wetravel.com"
+      data-version="v0.4"
+      data-uid="19007657"
+      data-uuid="19007657"
+      href="https://retreattulum.wetravel.com/checkout_embed?uuid=19007657">
+      Book Now
+    </button>
+  </div>
+
+  <!-- Row 7 -->
+  <div style="display:flex; justify-content:space-between; align-items:center; gap:16px;
+              padding:8px 10px; border-bottom:1px solid #E4CDBD;">
+    <div style="font-family: Lettera Text,-apple-system,system-ui,Roboto,Helvetica Neue,sans-serif;
+                font-weight:500; font-size:16px; color:#0a1200;">
+      • Feb 22 – 27, 2026
+    </div>
+    <button
+      class="wtrvl-checkout_button sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element"
+      id="wetravel_button_restore6"
+      data-env="https://retreattulum.wetravel.com"
+      data-version="v0.4"
+      data-uid="89063613"
+      data-uuid="89063613"
+      href="https://retreattulum.wetravel.com/checkout_embed?uuid=89063613">
+      Book Now
+    </button>
+  </div>
+
+  <!-- Row 8 -->
+  <div style="display:flex; justify-content:space-between; align-items:center; gap:16px;
+              padding:8px 10px; border-bottom:1px solid #E4CDBD; background-color:#F9F4EE;">
+    <div style="font-family: Lettera Text,-apple-system,system-ui,Roboto,Helvetica Neue,sans-serif;
+                font-weight:500; font-size:16px; color:#0a1200;">
+      • March 9 – 15, 2026
+    </div>
+    <button
+      class="wtrvl-checkout_button sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element"
+      id="wetravel_button_restore7"
+      data-env="https://retreattulum.wetravel.com"
+      data-version="v0.4"
+      data-uid="74304874"
+      data-uuid="74304874"
+      href="https://retreattulum.wetravel.com/checkout_embed?uuid=74304874">
+      Book Now
+    </button>
+  </div>
+
+  <!-- Row 9 -->
+  <div style="display:flex; justify-content:space-between; align-items:center; gap:16px;
+              padding:8px 10px; border-bottom:1px solid #E4CDBD;">
+    <div style="font-family: Lettera Text,-apple-system,system-ui,Roboto,Helvetica Neue,sans-serif;
+                font-weight:500; font-size:16px; color:#0a1200;">
+      • March 28 – April 4, 2026
+    </div>
+    <button
+      class="wtrvl-checkout_button sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element"
+      id="wetravel_button_restore8"
+      data-env="https://retreattulum.wetravel.com"
+      data-version="v0.4"
+      data-uid="45384902"
+      data-uuid="45384902"
+      href="https://retreattulum.wetravel.com/checkout_embed?uuid=45384902">
+      Book Now
+    </button>
+  </div>
+
+  <!-- Caption -->
+  <p style="margin: 8px 0 0; font-family: Lettera Text,-apple-system,system-ui,Roboto,Helvetica Neue,sans-serif;
+            font-size:16px; font-style:italic; color:#0a1200;">
+    If you are unable to attend during a scheduled event, we can create a customized program for you.
+  </p>
+
+</div>
+
+<script src="https://cdn.wetravel.com/widgets/embed_checkout.js"></script>
