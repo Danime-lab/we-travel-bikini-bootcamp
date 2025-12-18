@@ -85,7 +85,7 @@ display: none !important;
               text-decoration: none; line-height: 14px; display: inline-block; cursor: pointer; width: 100%;">March 9, 2026</a>
   </li>
 
-  <li style="background-color: #ffffff;">
+  <li style="border-bottom: 1px solid #E4CDBD; background-color: #ffffff;">
     <a class="wtrvl-checkout_button" id="wetravel_button_widget_8"
        data-env="https://retreattulum.wetravel.com" data-version="v0.4" data-uid="45384902"
        data-uuid="48715245" href="https://retreattulum.wetravel.com/checkout_embed?uuid=45384902"
@@ -96,7 +96,7 @@ display: none !important;
               text-decoration: none; line-height: 14px; display: inline-block; cursor: pointer; width: 100%;">March 26, 2026</a>
   </li>
 
- <li style="background-color: #ffffff;">
+  <li style="border-bottom: 1px solid #E4CDBD; background-color: #ffffff;">
     <a class="wtrvl-checkout_button" id="wetravel_button_widget_8"
        data-env="https://retreattulum.wetravel.com" data-version="v0.4" data-uid="48139875"
        data-uuid="48715245" href="https://retreattulum.wetravel.com/checkout_embed?uuid=48139875"
@@ -107,7 +107,7 @@ display: none !important;
               text-decoration: none; line-height: 14px; display: inline-block; cursor: pointer; width: 100%;">April 18, 2026</a>
   </li>
 
- <li style="background-color: #ffffff;">
+  <li style="border-bottom: 1px solid #E4CDBD; background-color: #ffffff;">
     <a class="wtrvl-checkout_button" id="wetravel_button_widget_8"
        data-env="https://retreattulum.wetravel.com" data-version="v0.4" data-uid="19078936"
        data-uuid="48715245" href="https://retreattulum.wetravel.com/checkout_embed?uuid=19078936"
@@ -118,7 +118,7 @@ display: none !important;
               text-decoration: none; line-height: 14px; display: inline-block; cursor: pointer; width: 100%;">May 24, 2026</a>
   </li>
 
- <li style="background-color: #ffffff;">
+  <li style="border-bottom: 1px solid #E4CDBD; background-color: #ffffff;">
     <a class="wtrvl-checkout_button" id="wetravel_button_widget_8"
        data-env="https://retreattulum.wetravel.com" data-version="v0.4" data-uid="72926767"
        data-uuid="48715245" href="https://retreattulum.wetravel.com/checkout_embed?uuid=72926767"
@@ -129,7 +129,7 @@ display: none !important;
               text-decoration: none; line-height: 14px; display: inline-block; cursor: pointer; width: 100%;">June 20, 2026</a>
   </li>
 
- <li style="background-color: #ffffff;">
+   <li style="border-bottom: 1px solid #E4CDBD; background-color: #ffffff;">
     <a class="wtrvl-checkout_button" id="wetravel_button_widget_8"
        data-env="https://retreattulum.wetravel.com" data-version="v0.4" data-uid="90127241"
        data-uuid="48715245" href="https://retreattulum.wetravel.com/checkout_embed?uuid=90127241"
@@ -140,7 +140,7 @@ display: none !important;
               text-decoration: none; line-height: 14px; display: inline-block; cursor: pointer; width: 100%;">June 30, 2026</a>
   </li>
 
- <li style="background-color: #ffffff;">
+  <li style="border-bottom: 1px solid #E4CDBD; background-color: #ffffff;">
     <a class="wtrvl-checkout_button" id="wetravel_button_widget_8"
        data-env="https://retreattulum.wetravel.com" data-version="v0.4" data-uid="13174730"
        data-uuid="48715245" href="https://retreattulum.wetravel.com/checkout_embed?uuid=13174730"
@@ -151,7 +151,7 @@ display: none !important;
               text-decoration: none; line-height: 14px; display: inline-block; cursor: pointer; width: 100%;">August 15, 2026</a>
   </li>
 
- <li style="background-color: #ffffff;">
+  <li style="border-bottom: 1px solid #E4CDBD; background-color: #ffffff;">
     <a class="wtrvl-checkout_button" id="wetravel_button_widget_8"
        data-env="https://retreattulum.wetravel.com" data-version="v0.4" data-uid="74378273"
        data-uuid="48715245" href="https://retreattulum.wetravel.com/checkout_embed?uuid=74378273"
